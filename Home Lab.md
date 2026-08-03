@@ -9,7 +9,7 @@ a mini server that i own and use to run different services and experiments
 - Proxmox
 	- ubuntu server VM
 	- home assitant VM
-	- True NAS VM
+	- True NAS VM (not implemented)
 
 
 
