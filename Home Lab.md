@@ -1,7 +1,7 @@
 
 ---
 ## Intro: 
-a mini server that i own and use to run different services and ex
+a mini server that i own and use to run different services and experiments
 
 
 ---
