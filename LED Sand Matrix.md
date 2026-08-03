@@ -21,4 +21,3 @@ create a small addressable LED matrix that uses an accelerometer or IMU to detec
 
 ---
 ## Concept Drawings/Notes:
-
