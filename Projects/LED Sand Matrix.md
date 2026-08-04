@@ -39,6 +39,6 @@ create a small addressable LED matrix that uses an accelerometer or IMU to detec
 
 | File Name                      . | File Description                 . |
 | -------------------------------- | ---------------------------------- |
-| Test LED Matrix.                 |                                    |
+| Test LED Matrix.kicad_PCB/SHC    |                                    |
 
 ---
