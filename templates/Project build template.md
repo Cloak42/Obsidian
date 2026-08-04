@@ -5,7 +5,8 @@ tags:
 ---
 ## Intro/Concept:
 ---
-##
+## Brainstorm Ideas
+-[ ] 
 
 ## Time Line:
 - [ ] 
