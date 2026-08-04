@@ -3,7 +3,8 @@ tags:
   - template
 ---
 ---
-GIT
+GitHub Repository:
+---
 ## Intro/Concept:
 ---
 ## Brainstorm Ideas
