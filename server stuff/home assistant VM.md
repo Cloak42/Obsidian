@@ -1,5 +1,7 @@
 ---
 tags:
+  - server
+  - IOT
 ---
 ---
 ## Intro:
