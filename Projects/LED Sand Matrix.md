@@ -37,8 +37,8 @@ create a small addressable LED matrix that uses an accelerometer or IMU to detec
 ---
 ## File ledged
 
-| File Name                      . | File Description                 . |
-| -------------------------------- | ---------------------------------- |
-| Test LED Matrix.kicad_pcb/sch    |                                    |
+| File Name                      . | File Description                 .                 |
+| -------------------------------- | -------------------------------------------------- |
+| Test LED Matrix.kicad_pcb/sch    | The pcb and schematic file of the mini test Matrix |
 
 ---
