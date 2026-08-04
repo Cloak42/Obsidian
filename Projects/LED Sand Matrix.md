@@ -2,6 +2,7 @@
 tags:
   - AdressableLEDs
   - Arduino
+  - Project
 ---
 ---
 ## Intro:
