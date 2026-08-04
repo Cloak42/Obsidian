@@ -12,7 +12,7 @@ a mini server that i own and use to run different services and experiments
 		- qbittorrent
 		- jellyfin
 		- 
-	- home assistant VM
+	- [[home assistant VM]]
 	- True NAS VM (not implemented)
 
 
