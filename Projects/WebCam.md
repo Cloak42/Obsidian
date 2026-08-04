@@ -2,6 +2,7 @@
 tags:
   - IOT
   - ESP32
+  - AI
 ---
 
 ---
