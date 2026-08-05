@@ -21,7 +21,7 @@ GitHub Repository:
 ## Results/ updates
 
 ---
-## File ledged
+## File legend
 
 | File Name                      . | File Description                 . |
 | -------------------------------- | ---------------------------------- |
