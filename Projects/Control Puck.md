@@ -31,7 +31,8 @@ a simple yet interesting looking little puck that can be used to control the lig
 			- volume control
 		- security mode 
 			- modifie the use of the [[WebCam]] and [[Door sensor]]
-	- 
+	- battery powered
+		- charging 
 ---
 ## Time Line:
 - [ ] 
