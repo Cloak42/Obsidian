@@ -1,7 +1,5 @@
 ---
 tags:
-  - Project
-  - GitRepo
 ---
 ---
 GitHub Repository: [https://github.com/Cloak42/LED-Sand-Matrix]()
