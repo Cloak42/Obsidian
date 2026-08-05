@@ -16,7 +16,7 @@ a simple yet interesting looking little puck that can be used to control the lig
 ## Brainstorm Ideas
 
 ### Feature Brain Dump
-- [ ] 
+	-  
 ---
 ## Time Line:
 - [ ] 
