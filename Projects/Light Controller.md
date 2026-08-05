@@ -1,5 +1,9 @@
 ---
 tags:
+  - IOT
+  - ESP32
+  - Project
+  - PCB
 ---
 ---
 GitHub Repository: (NOT CREATED YET)
