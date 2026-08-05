@@ -13,8 +13,8 @@ GitHub Repository:(NOT CREATED YET)
 	- the base plate will have multiple slots where different distortion circuits can be added
 ---
 ## Time Line:
-- [ ] design schmatic
-- [ ] figure out how big each distortion circut should be
+- [ ] design schematic
+- [ ] figure out how big each distortion circuit should be
 - [ ] find components
 - [ ] layout schematic
 ---
