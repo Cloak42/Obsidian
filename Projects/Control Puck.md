@@ -30,7 +30,7 @@ a simple yet interesting looking little puck that can be used to control the lig
 			- play/pause songs
 			- volume control
 		- security mode 
-			- modifie the use of the [[WebCam]] and [[Door sensor]]
+			- modifie the use of the [[Webam]] and [[Door sensor]]
 	- battery powered
 		- charging dock mountaed to the wall like a button or switch
 ---
