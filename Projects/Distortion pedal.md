@@ -22,7 +22,7 @@ designing and making a simple analog distortion pedal for the guitar using diode
 ---
 ## Time Line:
 - [ ] build the base plate, so that it provides each slot with the necessary power and other inputs to operate
-- [ ] 
+- [ ] make schematic for each type of distortion you want 
 ---
 ## Concept Drawings/Notes:
 
