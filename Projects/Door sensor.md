@@ -1,5 +1,7 @@
 ---
 tags:
+  - electronics-project
+  - pcb
 ---
 ---
 GitHub Repository:(NOT CREATED YET)
