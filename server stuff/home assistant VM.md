@@ -1,6 +1,5 @@
 ---
 tags:
-  - IOT
   - server-project
 ---
 ---
