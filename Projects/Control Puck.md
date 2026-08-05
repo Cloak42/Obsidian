@@ -26,9 +26,9 @@ a simple yet interesting looking little puck that can be used to control the lig
 	- lighting control
 			- different presets
 			- simple on off dimmer
-		- music control
-			- play/pause songs
-			- volume control
+	- music control
+		- play/pause songs
+		- volume control
 		- security mode 
 			- modifie the use of the [[Webcam]] and [[Door sensor]]
 	- battery powered
