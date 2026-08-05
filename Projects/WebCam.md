@@ -1,5 +1,7 @@
 ---
 tags:
+  - electronics-project
+  - server-project
 ---
 ---
 GitHub Repository:
