@@ -13,8 +13,13 @@ designing and making a simple analog distortion pedal for the guitar using diode
 
 ---
 ## Brainstorm Ideas
-- a system/series of interchagable pedals
-- we will make a baseplate that handels the passthrough, 
+- a system/series of interchangeable pedals
+- we will make a baseplate that handles the passthrough, and power needs of each pedal
+	- the base plate will have multiple slots where different distortion circuits can be added
+- distortion types
+	- hard clipping 
+	- soft clipping
+- 
 
 
 ---
