@@ -16,7 +16,7 @@ GitHub Repository:(NOT CREATED YET)
 - [ ] design schmatic
 - [ ] figure out how big each distortion circut should be
 - [ ] find components
-- [ ] 
+- [ ] layout schematic
 ---
 ## Concept Drawings/Notes:
 
