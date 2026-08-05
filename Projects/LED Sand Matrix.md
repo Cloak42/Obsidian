@@ -1,9 +1,6 @@
 ---
 tags:
-  - AdressableLEDs
   - Project
-  - PCB
-  - IMU
   - GitRepo
 ---
 ---
