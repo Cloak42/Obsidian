@@ -19,9 +19,6 @@ designing and making a simple analog distortion pedal for the guitar using diode
 - distortion types
 	- hard clipping 
 	- soft clipping
-- 
-
-
 ---
 ## Time Line:
 - [ ] 
