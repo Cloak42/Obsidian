@@ -16,7 +16,7 @@ a simple yet interesting looking little puck that can be used to control the lig
 ## Brainstorm Ideas
 
 ### Feature Brain Dump
-	- interactive screen
+- interactive screen
 		- maybe e ink to save on electricity
 		- ascci graphics to make things look interesting
 	- the outside of the puck is a dial that can be used to dim the lights or control the volume of something
@@ -30,7 +30,7 @@ a simple yet interesting looking little puck that can be used to control the lig
 			- play/pause songs
 			- volume control
 		- security mode 
-			- modifie the use of the [[Webam]] and [[Door sensor]]
+			- modifie the use of the [[Webcam]] and [[Door sensor]]
 	- battery powered
 		- charging dock mountaed to the wall like a button or switch
 ---
