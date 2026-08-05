@@ -1,7 +1,6 @@
 ---
 tags:
   - AdressableLEDs
-  - Arduino
   - Project
   - PCB
   - IMU
