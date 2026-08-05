@@ -16,7 +16,9 @@ a simple yet interesting looking little puck that can be used to control the lig
 ## Brainstorm Ideas
 
 ### Feature Brain Dump
-	-  
+	- interactive screen
+		- maybe e ink to save on electricity 
+	- 
 ---
 ## Time Line:
 - [ ] 
