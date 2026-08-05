@@ -1,8 +1,8 @@
 ---
 tags:
   - electronics-project
-  - music
   - pcb
+  - music-project
 ---
 ---
 GitHub Repository:(NOT CREATED YET)
