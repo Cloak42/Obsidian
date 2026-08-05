@@ -18,9 +18,6 @@ GitHub Repository:
 ## Concept Drawings/Notes:
 
 ---
-## Results/ updates
-
----
 ## File legend
 
 | File Name                      . | File Description                 . |
@@ -33,5 +30,9 @@ GitHub Repository:
 | Component name/number | Component type | Component use/assosiated part |
 | --------------------- | -------------- | ----------------------------- |
 |                       |                |                               |
+|                       |                |                               |
+
+---
+## Results/ updates
 
 ---
