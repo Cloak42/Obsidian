@@ -21,7 +21,7 @@ designing and making a simple analog distortion pedal for the guitar using diode
 	- soft clipping
 ---
 ## Time Line:
-- [ ] 
+- [ ] build the base plate, so that it provides each slot with the nessisary power and other inputs to operate
 ---
 ## Concept Drawings/Notes:
 
