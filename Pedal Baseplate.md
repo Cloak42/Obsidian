@@ -14,7 +14,9 @@ GitHub Repository:(NOT CREATED YET)
 ---
 ## Time Line:
 - [ ] design schmatic
-- [ ] figure out how big each distortion 
+- [ ] figure out how big each distortion circut should be
+- [ ] find components
+- [ ] 
 ---
 ## Concept Drawings/Notes:
 
