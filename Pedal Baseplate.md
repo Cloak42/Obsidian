@@ -16,7 +16,9 @@ GitHub Repository:(NOT CREATED YET)
 - [ ] design schematic
 - [ ] figure out how big each distortion circuit should be
 - [ ] find components
-- [ ] layout schematic
+- [ ] layout pcb
+- [ ] get pcb made
+- [ ] 3d print a case for pcb
 ---
 ## Concept Drawings/Notes:
 
