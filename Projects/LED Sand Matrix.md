@@ -1,5 +1,7 @@
 ---
 tags:
+  - electronics-project
+  - pcb
 ---
 ---
 GitHub Repository: [https://github.com/Cloak42/LED-Sand-Matrix]()
