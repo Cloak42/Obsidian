@@ -18,6 +18,7 @@ a simple yet interesting looking little puck that can be used to control the lig
 ### Feature Brain Dump
 	- interactive screen
 		- maybe e ink to save on electricity 
+	- the outside of the puck is a dial that can be used to dim the lights or control the volume of something
 	- 
 ---
 ## Time Line:
