@@ -23,9 +23,10 @@ designing and making a simple analog distortion pedal for the guitar using diode
 ## Time Line:
 - [ ] build the base plate, so that it provides each slot with the necessary power and other inputs to operate
 - [ ] make schematic for each type of distortion you want 
-- [ ] make and test the schmatics on a breadboard
+- [ ] make and test the schematics on a breadboard
 - [ ] turn into pcb and get manufactured
 - [ ] 3d print a case to protect everything
+- [ ] design more distortion 
 ---
 ## Concept Drawings/Notes:
 
