@@ -21,7 +21,7 @@ a simple yet interesting looking little puck that can be used to control the lig
 	- ascci graphics to make things look interesting
 - the outside of the puck is a dial that can be used to dim the lights or control the volume of something
 	- the puck dial has force feedback
-		- useing a pankake motor and a hall effects sensor
+		- using a pancake motor and a hall effects sensor
 	- puck would have different modes to controll different things in my room
 		- lighting control
 			- different presets
