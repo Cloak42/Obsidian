@@ -16,9 +16,9 @@ GitHub Repository: (NOT CREATED YET)
 ## Concept Drawings/Notes:
 
 ---
-## Results/ updates
+## Results/Updates
 ---
-## File ledged
+## File Legend
 
 | File Name                      . | File Description                 . |
 | -------------------------------- | ---------------------------------- |
