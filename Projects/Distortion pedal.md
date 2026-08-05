@@ -13,6 +13,7 @@ designing and making a simple analog distortion pedal for the guitar using diode
 
 ---
 ## Brainstorm Ideas
+- a system/series of interchagable pedals
 - 
 
 
