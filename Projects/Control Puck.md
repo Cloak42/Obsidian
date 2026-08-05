@@ -25,7 +25,8 @@ a simple yet interesting looking little puck that can be used to control the lig
 	- puck would have different modes to controll different things in my room
 		- lighting control
 			- different presets
-			- 
+			- simple on off dimmer
+		- 
 ---
 ## Time Line:
 - [ ] 
