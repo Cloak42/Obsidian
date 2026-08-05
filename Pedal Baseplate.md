@@ -1,6 +1,7 @@
 ---
 tags:
-  - template
+  - pcb
+  - electronics-project
 ---
 ---
 GitHub Repository:(NOT CREATED YET)
@@ -18,7 +19,7 @@ GitHub Repository:(NOT CREATED YET)
 - [ ] find components
 - [ ] layout pcb
 - [ ] get pcb made
-- [ ] 3d print a case for pcb
+- [ ] 3d print a case for ppcb
 ---
 ## Concept Drawings/Notes:
 
