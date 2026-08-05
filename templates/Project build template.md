@@ -26,3 +26,8 @@ GitHub Repository:
 |                                  |                                    |
 
 ---
+## Component Guide
+
+| Component name/number | Component type |
+| --------------------- | -------------- |
+|                       |                |
