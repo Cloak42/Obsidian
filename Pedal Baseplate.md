@@ -2,6 +2,7 @@
 tags:
   - pcb
   - electronics-project
+  - music-project
 ---
 ---
 GitHub Repository:(NOT CREATED YET)
