@@ -32,7 +32,7 @@ a simple yet interesting looking little puck that can be used to control the lig
 	- security mode 
 			- modify the use of the [[Webcam]] and [[Door sensor]]
 	- battery powered
-		- charging dock mountaed to the wall like a button or switch
+		- charging dock mounted to the wall like a button or switch
 ---
 ## Time Line:
 - [ ] 
