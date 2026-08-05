@@ -25,3 +25,10 @@ GitHub Repository: (NOT CREATED YET)
 |                                  |                                    |
 
 ---
+## Component Guide
+
+| Component name/number | Component type | Component use/assosiated part |
+| --------------------- | -------------- | ----------------------------- |
+|                       |                |                               |
+
+---
