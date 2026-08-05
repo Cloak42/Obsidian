@@ -9,7 +9,7 @@ GitHub Repository:(NOT CREATED YET)
 
 ---
 ## Intro/Concept:
-designing and making a simple analog distortion pedal for the guitar using diodes, 
+designing and making a simple analog distortion pedal for the guitar using diodes, capasitors, op amps and more
 
 ---
 ## Brainstorm Ideas
