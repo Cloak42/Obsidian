@@ -9,7 +9,7 @@ GitHub Repository:(NOT CREATED YET)
 
 ---
 ## Intro/Concept:
-designing and making a simple analog distortion pedal for the guitar using diodes, capasitors, op amps and more
+designing and making a simple analog distortion pedal for the guitar using diodes, capacitors, op amps and more
 
 ---
 ## Brainstorm Ideas
@@ -26,7 +26,7 @@ designing and making a simple analog distortion pedal for the guitar using diode
 - [ ] make and test the schematics on a breadboard
 - [ ] turn into pcb and get manufactured
 - [ ] 3d print a case to protect everything
-- [ ] design more distortion 
+- [ ] design more distortion circuits if you want
 ---
 ## Concept Drawings/Notes:
 
