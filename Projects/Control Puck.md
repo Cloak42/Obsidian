@@ -22,8 +22,8 @@ a simple yet interesting looking little puck that can be used to control the lig
 - the outside of the puck is a dial that can be used to dim the lights or control the volume of something
 	- the puck dial has force feedback
 		- using a pancake motor and a hall effects sensor
-- puck would have different modes to controll different things in my room
-		- lighting control
+- puck would have different modes to control different things in my room
+	- lighting control
 			- different presets
 			- simple on off dimmer
 		- music control
