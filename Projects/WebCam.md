@@ -1,9 +1,5 @@
 ---
 tags:
-  - IOT
-  - ESP32
-  - AI
-  - Project
 ---
 ---
 GitHub Repository:
