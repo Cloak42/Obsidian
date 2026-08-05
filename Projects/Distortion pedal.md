@@ -9,7 +9,7 @@ GitHub Repository:(NOT CREATED YET)
 
 ---
 ## Intro/Concept:
-designing and making a simple anologue distortion pedal for the guitar
+designing and making a simple anolge distortion pedal for the guitar
 
 ---
 ## Brainstorm Ideas
