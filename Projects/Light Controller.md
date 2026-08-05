@@ -10,10 +10,12 @@ GitHub Repository: (NOT CREATED YET)
 ---
 ## Intro/Concept:
 
-a simple yet intersting looking liittle puck that can be used to control the lights and things in my room.
+a simple yet interesting looking little puck that can be used to control the lights and things in my room.
 
 ---
 ## Brainstorm Ideas
+
+### Feature Brain Dump
 - [ ] 
 ---
 ## Time Line:
