@@ -26,6 +26,9 @@ a simple yet interesting looking little puck that can be used to control the lig
 		- lighting control
 			- different presets
 			- simple on off dimmer
+		- music control
+			- play/pause songs
+			- volume control
 		- 
 ---
 ## Time Line:
