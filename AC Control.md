@@ -1,6 +1,8 @@
 ---
 tags:
   - server-project
+  - electronics-project
+  - pcb
 ---
 ---
 GitHub Repository:(NOT CREATED YET)
