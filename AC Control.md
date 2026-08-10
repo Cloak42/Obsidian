@@ -10,7 +10,7 @@ GitHub Repository:(NOT CREATED YET)
 
 ---
 ## Intro/Concept:
-Make a 
+Make a programmable ir remote control using an ESP32 or other micro controller with wifi.  clone the commands the remote sends the AC unit and get the station(programable controller) to duplicate them.  then find a way to link the 
 
 ---
 ## Brainstorm Ideas
