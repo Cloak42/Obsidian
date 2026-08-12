@@ -18,7 +18,7 @@ After the initial phase has been completed i want to use this to set up some aut
 
 ---
 ## Brainstorm Ideas
-- [ ] 
+- [ ] using open CV to things
 
 ---
 ## Time Line:
