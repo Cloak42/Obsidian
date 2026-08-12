@@ -19,7 +19,9 @@ After the initial phase has been completed i want to use this to set up some aut
 ---
 ## Brainstorm Ideas
 - [ ] using open CV to find and recognize faces
-	- [ ] 
+- [ ] use a yolo model to simply find and zoom in on the face
+	- [ ] send to bigger computer to identifty
+- [ ] 
 
 ---
 ## Time Line:
