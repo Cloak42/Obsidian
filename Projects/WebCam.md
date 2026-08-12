@@ -15,6 +15,8 @@ Using a [[Door sensor]] triggers this webcam to take a photo of the door (and wh
 
 phase 2:
 After the initial phase has been completed i want to use this to set up some automation.  cross referencing who the person that entered the room with a schedule i could get the room to turn on the lights for me as i enter the room at any time passed sunset.  and turn them off as i leave the room.  for fun i could also include an intruder routine which could include flashing lights and turning on a speaker playing specific audio.
+## Brainstorm Ideas
+- [ ] 
 
 ---
 ## Time Line:
