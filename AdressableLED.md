@@ -12,7 +12,7 @@ GitHub Repository:(NOT CREATED YET)
 an exploration of addressable LEDs, using the FastLED library and an Arduino
 
 ---
-## Brainstorm Ideas
+## Phase 1
 - [ ] 
 ---
 ## Time Line:
