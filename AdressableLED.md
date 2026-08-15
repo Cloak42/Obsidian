@@ -7,6 +7,9 @@ GitHub Repository:(NOT CREATED YET)
 
 ---
 ## Intro/Concept:
+an exploration of adressable LEDs, using the FastLED library and an arduino
+
+
 ---
 ## Brainstorm Ideas
 - [ ] 
