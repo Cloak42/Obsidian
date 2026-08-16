@@ -10,7 +10,7 @@ tags:
 ## Advertisement:
 
 ---
-## The vision for the brand
+## The vision
 
 
 ---
