@@ -12,7 +12,7 @@ GitHub Repository:(NOT CREATED YET)
 an exploration of addressable LEDs, using the FastLED library and an Arduino
 
 ---
-## Phase 1: Basic Setup
+## Phase 1: Basic Functions
 ### the update function
 - runs a for loop based on the number of LEDs specified by NUM_LED
 - updates them t
