@@ -14,6 +14,8 @@ ideology:
 ---
 ## Advertisement:
 
+### The vision for the brand
+
 
 ---
 ## Products:
