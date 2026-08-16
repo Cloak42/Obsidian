@@ -46,7 +46,6 @@ struct LED {
 -  **NUM_LEDS must be defined**
 
 ### 2. allOff Function
-
 ```
 void allOff(LED arr[NUM_LEDS]) {
   for (int i = 0; i < NUM_LEDS; i++) {
