@@ -14,6 +14,7 @@ Basically a name to sell my electronics projects by
 ---
 ## Advertisement:
 
+advertisment will be done mostly through 
 
 ### The vision for the brand
 
