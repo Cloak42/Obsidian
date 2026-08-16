@@ -16,7 +16,9 @@ an exploration of addressable LEDs, using the FastLED library and an Arduino
 ### Update function
 - runs a for loop based on the number of LEDs specified by NUM_LED
 - updates them t
+```
 
+```
 
 ---
 ## Time Line:
