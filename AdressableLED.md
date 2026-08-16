@@ -65,7 +65,7 @@ void allOff(LED arr[NUM_LEDS]) {
 - and update all the LEDs to the new value
 
 ---
-## Phase 2
+## Phase 2: animations
 
 ---
 ## Time Line:
