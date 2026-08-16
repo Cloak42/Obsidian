@@ -41,8 +41,9 @@ struct LED {
 
 Dependencies
 - fastLED library must be included
-- LED structure must be defined
-- must define and pass an array of 
+- LED struct must be defined
+- must define and pass an array of the LED struct into the function
+- 
 
 ---
 ## Time Line:
