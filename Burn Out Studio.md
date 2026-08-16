@@ -6,9 +6,10 @@ tags:
 ## Concept:
 Basically a name to sell my projects by
 
-ideaology:
+ideology:
 - all or most open source 
-- enviornmentally 
+- environmentally conscious
+- easily repairable
 
 ---
 ## Advertisement:
