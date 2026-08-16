@@ -65,7 +65,7 @@ void allOff(LED arr[NUM_LEDS]) {
 - and update all the LEDs to the new value
 
 ---
-## Phase 2: animations
+## Phase 2: Animations
 
 ---
 ## Time Line:
@@ -78,6 +78,7 @@ void allOff(LED arr[NUM_LEDS]) {
 
 | File Name                      . | File Description                 . |
 | -------------------------------- | ---------------------------------- |
+| allOffFunc.ino                   |                                    |
 |                                  |                                    |
 
 ---
