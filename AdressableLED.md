@@ -61,7 +61,7 @@ void allOff(LED arr[NUM_LEDS]) {
 }
 ```
 
-
+- sets all RGB values in the 
 
 ---
 ## Time Line:
