@@ -27,7 +27,7 @@ void update(LED arr[5]) {
 }
 ```
 
-
+- updates a string of LEDs based on an array of 
 
 ---
 ## Time Line:
