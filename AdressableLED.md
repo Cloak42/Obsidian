@@ -64,6 +64,12 @@ void allOff(LED arr[NUM_LEDS]) {
 - sets all RGB values in the array to 0
 - and update all the LEDs to the new value
 
+**Dependencies**
+- **fastLED library must be included**
+- **LED struct must be defined**
+- **must define and pass an array of the LED struct into the function**
+-  **NUM_LEDS must be defined**
+
 ---
 ## Code Phase 2: Animations
 
