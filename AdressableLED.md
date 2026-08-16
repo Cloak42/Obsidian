@@ -13,7 +13,9 @@ an exploration of addressable LEDs, using the FastLED library and an Arduino
 
 ---
 ## Phase 1: Basic Setup
-### the  
+### the update function
+- 
+
 ---
 ## Time Line:
 - [ ] 
