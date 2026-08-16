@@ -9,7 +9,7 @@ GitHub Repository:(NOT CREATED YET)
 
 ---
 ## Intro/Concept:
-an exploration of addressable LEDs, using the [FastLED]() library and an Arduino
+an exploration of addressable LEDs, using the [FastLED](https://fastled.io) library and an Arduino
 
 ---
 ## Phase 1: Basic Functions
