@@ -43,7 +43,7 @@ Dependencies
 - fastLED library must be included
 - LED struct must be defined
 - must define and pass an array of the LED struct into the function
-- 
+-  NUM_LEDS must be defined
 
 ---
 ## Time Line:
