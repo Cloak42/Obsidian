@@ -14,7 +14,10 @@ Basically a name to sell my electronics projects by
 ---
 ## Advertisement:
 
-advertisment will be done mostly through 
+advertisment will be done mostly through short form content on instagram and tik tok
+
+walking people through the process of designing the products, and my projects
+advertising the product and my freelancing services simultaniously 
 
 ### The vision for the brand
 
