@@ -13,7 +13,7 @@ an exploration of addressable LEDs, using the [FastLED](https://fastled.io) libr
 
 ---
 ## Phase 1: Basic Functions
-### Update function
+### 1. Update function
 ```
 void update(LED arr[5]) {
 
