@@ -45,7 +45,7 @@ struct LED {
 - **must define and pass an array of the LED struct into the function**
 -  **NUM_LEDS must be defined**
 
-### 2.
+### 2. allOff Function
 
 ---
 ## Time Line:
