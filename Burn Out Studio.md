@@ -15,7 +15,6 @@ Basically a name to sell my electronics projects by
 ## Advertisement:
 
 advertisement will be done mostly through short form content on Instagram and tik tok
-
 walking people through the process of designing the products, and my projects
 advertising the product and my freelancing services simultaniously 
 
