@@ -62,7 +62,7 @@ void allOff(LED arr[NUM_LEDS]) {
 ```
 
 - sets all RGB values in the array to 0
-- 
+- and update all the LEDs to the new value
 
 ---
 ## Time Line:
