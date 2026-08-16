@@ -19,8 +19,7 @@ walking people through the process of designing the products, and my projects
 advertising the product and my freelancing services simultaneously 
 
 ---
-## The vision for the brand
-
+## The vision
 
 
 ---
