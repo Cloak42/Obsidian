@@ -49,9 +49,9 @@ struct LED {
 ```
 void allOff(LED arr[NUM_LEDS]) {
   for (int i = 0; i < NUM_LEDS; i++) {
-    ani[i].R = 0;
-    ani[i].G = 0;
-    ani[i].B = 0;
+    arr[i].R = 0;
+    arr[i].G = 0;
+    arr[i].B = 0;
     leds[i] = CRGB(0,0,0);
     FastLED.show();
   }
