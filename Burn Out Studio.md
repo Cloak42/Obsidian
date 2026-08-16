@@ -6,7 +6,7 @@ tags:
 ## Concept:
 Basically a name to sell my electronics projects by
 
-ideology:
+### ideology:
 - all or most open source 
 - environmentally conscious
 - easily repairable
@@ -14,7 +14,7 @@ ideology:
 ---
 ## Advertisement:
 
-### The vision for the brand
+#### The vision for the brand
 
 
 ---
