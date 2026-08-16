@@ -23,9 +23,7 @@ void update(LED arr[5]) {
     FastLED.show();
     delay(500);
   }
-
   return;
-
 }
 ```
 
