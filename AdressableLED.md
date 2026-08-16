@@ -80,6 +80,7 @@ void allOff(LED arr[NUM_LEDS]) {
 | -------------------------------- | ---------------------------------- |
 | buttonTest.ino                   |                                    |
 | allOffFunc.ino                   |                                    |
+| updateFunc.ino                   |                                    |
 
 ---
 ## Component Guide
