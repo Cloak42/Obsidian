@@ -3,11 +3,11 @@ tags:
   - template
 ---
 ---
-## Concept
+## Concept:
 
 
 ---
-## Advertisement
+## Advertisement:
 
 
 ---
