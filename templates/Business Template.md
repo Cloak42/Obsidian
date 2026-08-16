@@ -5,10 +5,8 @@ tags:
 ---
 ## Concept:
 
-
 ---
 ## ideology:
-
 
 ---
 ## Advertisement:
@@ -16,9 +14,7 @@ tags:
 ---
 ## The vision
 
-
 ---
 ## Products:
-
 
 ---
