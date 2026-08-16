@@ -39,7 +39,10 @@ struct LED {
 };
 ```
 
-Dependancies 
+Dependencies
+- fastLED library must be included
+- LED structure must be defined
+- 
 
 ---
 ## Time Line:
