@@ -42,7 +42,7 @@ struct LED {
 Dependencies
 - fastLED library must be included
 - LED structure must be defined
-- 
+- must define and pass an array of 
 
 ---
 ## Time Line:
