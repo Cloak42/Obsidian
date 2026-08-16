@@ -4,7 +4,7 @@ tags:
 ---
 ---
 ## Concept:
-Basically a name to sell my projects by
+Basically a name to sell my electronics projects by
 
 ideology:
 - all or most open source 
