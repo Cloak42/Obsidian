@@ -7,6 +7,10 @@ tags:
 
 
 ---
+## ideology:
+
+
+---
 ## Advertisement:
 
 ---
