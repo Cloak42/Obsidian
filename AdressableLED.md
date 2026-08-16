@@ -54,7 +54,7 @@ void allOff(LED arr[NUM_LEDS]) {
     arr[i].R = 0;
     arr[i].G = 0;
     arr[i].B = 0;
-    leds[i] = CRGB(0,0,0);
+    leds[i] = CRGB(arr[i].R,arr[i].G,arr[i].B);
     FastLED.show();
   }
   return;
