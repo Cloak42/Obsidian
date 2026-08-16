@@ -78,7 +78,7 @@ void allOff(LED arr[NUM_LEDS]) {
 
 | File Name                      . | File Description                 . |
 | -------------------------------- | ---------------------------------- |
-| allOffFunc.ino                   |                                    |
+|                                  |                                    |
 |                                  |                                    |
 
 ---
