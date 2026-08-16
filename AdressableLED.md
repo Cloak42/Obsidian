@@ -14,6 +14,7 @@ an exploration of addressable LEDs, using the [FastLED](https://fastled.io) libr
 ---
 ## Phase 1: Basic Functions
 ### 1. update Function
+
 ```
 void update(LED arr[5]) {
 
@@ -46,6 +47,7 @@ struct LED {
 -  **NUM_LEDS must be defined**
 
 ### 2. allOff Function
+
 ```
 void allOff(LED arr[NUM_LEDS]) {
   for (int i = 0; i < NUM_LEDS; i++) {
