@@ -28,7 +28,7 @@ void update(LED arr[5]) {
 ```
 
 - updates a string of LEDs based on an array containing the RGB values for each LED
-
+data for each LED is stored in a struct like 
 
 ---
 ## Time Line:
