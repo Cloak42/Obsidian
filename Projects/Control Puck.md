@@ -3,6 +3,7 @@ tags:
   - electronics-project
   - server-project
   - pcb
+  - code-project
 ---
 ---
 GitHub Repository: (NOT CREATED YET)
