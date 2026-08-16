@@ -79,7 +79,7 @@ void allOff(LED arr[NUM_LEDS]) {
 | File Name                      . | File Description                 . |
 | -------------------------------- | ---------------------------------- |
 | buttonTest.ino                   |                                    |
-| allOffFunc.ino                   | a file to test the                 |
+| allOffFunc.ino                   |                                    |
 | updateFunc.ino                   |                                    |
 
 ---
