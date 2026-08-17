@@ -76,6 +76,8 @@ void allOff(LED arr[NUM_LEDS]) {
 ---
 ## Physical Setups:
 - basic breadboard
+
+- 
 ---
 ## Concept Drawings/Notes:
 
