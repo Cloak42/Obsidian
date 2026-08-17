@@ -28,6 +28,7 @@ GitHub Repository:https://github.com/Cloak42/IMU-Tests
 
 | Component name/number | Component type | Component use/assosiated part |
 | --------------------- | -------------- | ----------------------------- |
+| BMI160                | IMU module     |                               |
 |                       |                |                               |
 |                       |                |                               |
 
