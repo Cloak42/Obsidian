@@ -31,6 +31,8 @@ GitHub Repository:https://github.com/Cloak42/IMU-Tests
 | BMI160                | IMU module     |                               |
 |                       |                |                               |
 |                       |                |                               |
+![[Pasted image 20260817160252.png]]
+
 
 ---
 ## Results/ updates
