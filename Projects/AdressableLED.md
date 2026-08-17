@@ -79,7 +79,7 @@ void allOff(LED arr[NUM_LEDS]) {
 
 - PCB matrix
 
-
+- full PCB matrix ([])
 
 ---
 ## Concept Drawings/Notes:
