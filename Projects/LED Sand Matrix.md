@@ -17,7 +17,7 @@ create a small addressable LED matrix that uses an accelerometer or IMU to detec
 - [ ] test IMU (BMI160) separately ([[IMU Tests]])
 - [ ] combine LEDs and IMU to make a 1D version
 - [ ] build an addressable LED matrix 
-- [ ] test 3x3 matrix
+- [ ] test matrix
 - [ ] plug in IMU to Arduino and get read outs
 - [ ] combine the IMU and the LED matrix
 - [ ] add switch to select different modes
