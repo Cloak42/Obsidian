@@ -33,8 +33,10 @@ GitHub Repository:https://github.com/Cloak42/IMU-Tests
 ---
 ## BMI160 Description and Use
 
+wiring diagram:
 ![[Pasted image 20260817160252.png|618]]
 
+Arduino Library: 
 
 ---
 ## Results/ updates
