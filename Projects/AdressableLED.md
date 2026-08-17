@@ -74,8 +74,8 @@ void allOff(LED arr[NUM_LEDS]) {
 ## Code Phase 2: Animations
 
 ---
-## Time Line:
-- [ ] 
+## Physical Setups:
+- basic breadboard
 ---
 ## Concept Drawings/Notes:
 
