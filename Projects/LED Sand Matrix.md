@@ -13,8 +13,8 @@ create a small addressable LED matrix that uses an accelerometer or IMU to detec
 
 ---
 ## Time Line:
-- [ ] test adressable LEDs seperately ([[AdressableLED]]
-- [ ] 
+- [ ] test addressable LEDs separately ([[AdressableLED]])
+- [ ] test 
 - [ ] build 3x3 addressable LED matrix 
 - [ ] test 3x3 matrix
 - [ ] plug in IMU to Arduino and get read outs
