@@ -20,13 +20,13 @@ GitHub Repository:https://github.com/Cloak42/IMU-Tests
 ---
 ## File ledged
 
-| File Name                  | File Description                                                                                                             |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| IMUReadOut.ino             | displays the raw data from the accelerometers and the gyroscopes to serial                                                   |
-| PitchRollReadOut.ino       | converts raw accelerometer and gyroscope data into pitch and roll degree values                                              |
-| zerodIntPitchRoll.ino      | same as PitchRollReadOut.ino but integrates an offset value taken at start up, truncates the pitch and roll values into ints |
-| mapRoll.ino                | maps the roll values to values between -2 and 2                                                                              |
-| basicLightLevel.ino        | depending on the angle of the IMU it sets a specific LED to be on                                                            |
+| File Name             | File Description                                                                                                             |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| IMUReadOut.ino        | displays the raw data from the accelerometers and the gyroscopes to serial                                                   |
+| PitchRollReadOut.ino  | converts raw accelerometer and gyroscope data into pitch and roll degree values                                              |
+| zerodIntPitchRoll.ino | same as PitchRollReadOut.ino but integrates an offset value taken at start up, truncates the pitch and roll values into ints |
+| mapRoll.ino           | maps the roll values to values between -2 and 2                                                                              |
+| basicLightLevel.ino   | depending on the angle of the IMU it sets a specific LED to be on                                                            |
 
 ---
 ## Component Guide
