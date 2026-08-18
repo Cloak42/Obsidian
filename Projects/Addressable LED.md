@@ -116,6 +116,7 @@ a string of LEDs connected to 5v GND and to a digital pin of an Arduino nano thr
 | buttonTest.ino                   |                                    |
 | allOffFunc.ino                   |                                    |
 | updateFunc.ino                   |                                    |
+|                                  |                                    |
 
 ---
 ## Component Guide
