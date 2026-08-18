@@ -23,7 +23,7 @@ GitHub Repository:https://github.com/Cloak42/IMU-Tests
 | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | IMUReadOut.ino                   | displays the raw data from the accelerometers and the gyroscopes to serial                                                         |
 | PitchRollReadOut.ino             | converts raw accelerometer and gyroscope data into pitch and roll degree values                                                    |
-| zerodIntPitchRoll.ino            | same as PitchRollReadOut.ino but intigrates an offset value taken at start up.  also truncates the pitch and roll vaules into ints |
+| zerodIntPitchRoll.ino            | same as PitchRollReadOut.ino but integrates an offset value taken at start up.  also truncates the pitch and roll values into ints |
 
 ---
 ## Component Guide
