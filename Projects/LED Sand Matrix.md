@@ -13,7 +13,7 @@ create a small addressable LED matrix that uses an accelerometer or IMU to detec
 
 ---
 ## Time Line:
-- [ ] test addressable LEDs separately ([[AdressableLED]])
+- [ ] test addressable LEDs separately ([[Addressable LED]])
 - [ ] test IMU (BMI160) separately ([[IMU Tests]])
 - [ ] combine LEDs and IMU to make a 1D version
 - [ ] build an addressable LED matrix 
