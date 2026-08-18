@@ -83,10 +83,6 @@ a string of LEDs connected to 5v GND and to a digital pin of an Arduino nano thr
 - PCB matrix ([[LED Sand Matrix]])
 
 - Full PCB matrix ([[LED Sand Matrix]])
-
----
-## Concept Drawings/Notes:
-
 ---
 ## File ledged
 
