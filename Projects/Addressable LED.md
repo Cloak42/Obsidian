@@ -71,7 +71,18 @@ void allOff(LED arr[NUM_LEDS]) {
 -  **NUM_LEDS must be defined**
 
 ### 3. allColor Function
-
+```
+void allColor(LED arr[NUM_LEDS],int R,int G, int B) {
+  for (int i = 0; i < NUM_LEDS; i++) {
+    arr[i].R = R;
+    arr[i].G = G;
+    arr[i].B = B;
+    leds[i] = CRGB(arr[i].R,arr[i].G,arr[i].B);
+    FastLED.show();
+  }
+  return;
+}
+```
 
 ---
 ## Code Phase 2: Animations
