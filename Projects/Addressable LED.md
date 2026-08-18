@@ -71,6 +71,7 @@ void allOff(LED arr[NUM_LEDS]) {
 -  **NUM_LEDS must be defined**
 
 ### 3. allColor Function
+
 ```
 void allColor(LED arr[NUM_LEDS],int R,int G, int B) {
   for (int i = 0; i < NUM_LEDS; i++) {
