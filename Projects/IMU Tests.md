@@ -13,9 +13,6 @@ GitHub Repository:https://github.com/Cloak42/IMU-Tests
 ## Brainstorm Ideas
 - [ ] 
 ---
-## Time Line:
-- [ ] 
----
 ## Concept Drawings/Notes:
 
 ---
