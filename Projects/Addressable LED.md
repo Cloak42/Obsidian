@@ -111,12 +111,12 @@ a string of LEDs connected to 5v GND and to a digital pin of an Arduino nano thr
 ---
 ## File ledged
 
-| File Name                      . | File Description                 .                 |
-| -------------------------------- | -------------------------------------------------- |
-| buttonTest.ino                   |                                                    |
-| allOffFunc.ino                   | the program showing the use of the allOff Function |
-| updateFunc.ino                   | the program showing the use of the update Function |
-| allColorFunc.ino                 | the program showing the use of the all Function    |
+| File Name                      . | File Description                 .                   |
+| -------------------------------- | ---------------------------------------------------- |
+| buttonTest.ino                   |                                                      |
+| allOffFunc.ino                   | the program showing the use of the allOff Function   |
+| updateFunc.ino                   | the program showing the use of the update Function   |
+| allColorFunc.ino                 | the program showing the use of the allColor Function |
 
 ---
 ## Component Guide
