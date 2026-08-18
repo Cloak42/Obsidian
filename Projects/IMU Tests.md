@@ -36,9 +36,9 @@ GitHub Repository:https://github.com/Cloak42/IMU-Tests
 | BMI160                | IMU module     |                               |
 
 ---
-## BMI160 Description and Use
+## References 
 
-wiring diagram:
+BMI160 wiring diagram:
 ![[Pasted image 20260817160252.png|618]]
 
 Arduino Library: https://github.com/DFRobot/DFRobot_BMI160
