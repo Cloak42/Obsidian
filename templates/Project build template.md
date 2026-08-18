@@ -19,9 +19,9 @@ GitHub Repository:(NOT CREATED YET)
 ---
 ## File ledged
 
-| File Name                      . | File Description                 . |
-| -------------------------------- | ---------------------------------- |
-|                                  |                                    |
+| File Name | File Description |
+| --------- | ---------------- |
+|           |                  |
 
 ---
 ## Component Guide
