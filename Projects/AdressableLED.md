@@ -101,7 +101,7 @@ a string of LEDs connected to 5v GND and to a digital pin of an Arduino nano thr
 
 | Component name/number | Component type | Component use/assosiated part |
 | --------------------- | -------------- | ----------------------------- |
-|  WS2812               |                |                               |
+| 5mm diffused WS2812   | Adressable LED |                               |
 |                       |                |                               |
 
 ![[Pasted image 20260817194135.png]]
