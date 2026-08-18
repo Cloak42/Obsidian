@@ -19,11 +19,11 @@ GitHub Repository:https://github.com/Cloak42/IMU-Tests
 ---
 ## File ledged
 
-| File Name                      . | File Description                 .                                          |
-| -------------------------------- | --------------------------------------------------------------------------- |
-| IMUReadOut.ino                   | displays the raw data from the accelorometers and the gyroscoples to serial |
-| PitchRollReadOut.ino             |                                                                             |
-| zerodIntPitchRoll.ino            |                                                                             |
+| File Name                      . | File Description                 .                                         |
+| -------------------------------- | -------------------------------------------------------------------------- |
+| IMUReadOut.ino                   | displays the raw data from the accelerometers and the gyroscopes to serial |
+| PitchRollReadOut.ino             |                                                                            |
+| zerodIntPitchRoll.ino            |                                                                            |
 
 ---
 ## Component Guide
