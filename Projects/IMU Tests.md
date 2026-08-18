@@ -22,6 +22,7 @@ GitHub Repository:https://github.com/Cloak42/IMU-Tests
 | File Name                      . | File Description                 . |
 | -------------------------------- | ---------------------------------- |
 | IMUReadOut.ino                   |                                    |
+| PitchRollReadOut.ino             |                                    |
 
 ---
 ## Component Guide
