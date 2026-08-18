@@ -78,7 +78,7 @@ void allOff(LED arr[NUM_LEDS]) {
 - Basic breadboard
 ![[Pasted image 20260817193714.png|260]]
 (ignore the purple IMU, used for different project)
-a string of LEDs connected to 5v GND and to a digital pin of an arduino nano through a 470 ohm resitor 
+a string of LEDs connected to 5v GND and to a digital pin of an Arduino nano through a 470 ohm resistor 
 - PCB matrix ([[LED Sand Matrix]])
 
 - Full PCB matrix ([[LED Sand Matrix]])
