@@ -8,6 +8,7 @@ GitHub Repository:https://github.com/Cloak42/IMU-Tests
 
 ---
 ## Intro/Concept:
+play around/ learn how to read and interpertate data from the BMI160 IMU board
 
 ---
 ## Brainstorm Ideas
