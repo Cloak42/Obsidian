@@ -85,7 +85,6 @@ void allColor(LED arr[NUM_LEDS],int R,int G, int B) {
 }
 ```
 
-
 - ts all LEDs to the color passed through the function
 - updates all the LEDs to the new color value
 
