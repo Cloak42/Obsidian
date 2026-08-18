@@ -87,6 +87,11 @@ void allColor(LED arr[NUM_LEDS],int R,int G, int B) {
 - sets all LEDs to the color passed through the function
 - updates all the LEDs to the new color value
 
+**Dependencies**
+- **fastLED library must be included**
+- **LED struct must be defined**
+- **must define and pass an array of the LED struct into the function**
+-  **NUM_LEDS must be defined**
 
 ---
 ## Code Phase 2: Animations
