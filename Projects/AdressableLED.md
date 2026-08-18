@@ -107,6 +107,7 @@ a string of LEDs connected to 5v GND and to a digital pin of an Arduino nano thr
 ---
 ## References: 
 
+- WS2812 pinout:
 ![[Pasted image 20260817194135.png]]
 
 ---
