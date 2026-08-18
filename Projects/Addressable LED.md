@@ -85,6 +85,9 @@ void allColor(LED arr[NUM_LEDS],int R,int G, int B) {
 }
 ```
 
+
+
+
 ---
 ## Code Phase 2: Animations
 
