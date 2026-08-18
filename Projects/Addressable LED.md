@@ -5,7 +5,7 @@ tags:
   - pcb
 ---
 ---
-GitHub Repository:https://github.com/Cloak42/AdressableLED
+GitHub Repository:https://github.com/Cloak42/Addressable-LED
 
 ---
 ## Intro/Concept:
