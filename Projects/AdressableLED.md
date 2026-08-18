@@ -105,7 +105,7 @@ a string of LEDs connected to 5v GND and to a digital pin of an Arduino nano thr
 | 470 ohm ressistor     | Resistor       | voltage spike protection      |
 
 ---
-## References: 
+## References
 
 - WS2812 pinout:
 ![[Pasted image 20260817194135.png]]
