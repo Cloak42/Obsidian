@@ -38,7 +38,7 @@ BMI160 wiring diagram:
 
 Arduino Library: https://github.com/DFRobot/DFRobot_BMI160
 
-for wiring guide for BasicLightLevel.ino go to [[AdressableLED]]
+for wiring guide for BasicLightLevel.ino go to [[Addressable LED]]
 
 ---
 ## Results/ updates
