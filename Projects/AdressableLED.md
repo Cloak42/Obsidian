@@ -79,6 +79,7 @@ void allOff(LED arr[NUM_LEDS]) {
 ![[Pasted image 20260817193714.png|260]]
 (ignore the purple IMU, used for different project)
 a string of LEDs connected to 5v GND and to a digital pin of an Arduino nano through a 470 ohm resistor 
+
 - PCB matrix ([[LED Sand Matrix]])
 
 - Full PCB matrix ([[LED Sand Matrix]])
@@ -102,6 +103,8 @@ a string of LEDs connected to 5v GND and to a digital pin of an Arduino nano thr
 | --------------------- | -------------- | ----------------------------- |
 |                       |                |                               |
 |                       |                |                               |
+
+![[Pasted image 20260817194135.png]]
 
 ---
 ## Results/ updates
