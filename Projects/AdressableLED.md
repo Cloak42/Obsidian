@@ -77,7 +77,7 @@ void allOff(LED arr[NUM_LEDS]) {
 ## Physical Setups:
 - Basic breadboard
 
-- PCB matrix
+- PCB matrix ([[LED Sand Matrix]])
 
 - Full PCB matrix ([[LED Sand Matrix]])
 
