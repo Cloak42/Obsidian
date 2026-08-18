@@ -28,7 +28,7 @@ play around/ learn how to read and interoperate data from the BMI160 IMU board
 | --------------------- | -------------- | -------------------------------- |
 | BMI160                | IMU module     |                                  |
 | 5mm diffused WS2812   | LED            | for use with basicLightLevel.ino |
-| 470 ohm ressistor     | resitor        |                                  |
+| 470 ohm resistor      | resistor       | voltage spike protection         |
 
 ---
 ## References 
