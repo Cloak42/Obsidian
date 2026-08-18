@@ -1,6 +1,7 @@
 ---
 tags:
-  - template
+  - code-project
+  - electronics-project
 ---
 ---
 GitHub Repository:https://github.com/Cloak42/IMU-Tests
