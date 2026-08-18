@@ -70,7 +70,8 @@ void allOff(LED arr[NUM_LEDS]) {
 - **must define and pass an array of the LED struct into the function**
 -  **NUM_LEDS must be defined**
 
-### allColor Function
+### 3. allColor Function
+
 
 ---
 ## Code Phase 2: Animations
