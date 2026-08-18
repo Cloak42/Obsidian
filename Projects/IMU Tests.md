@@ -24,10 +24,11 @@ play around/ learn how to read and interoperate data from the BMI160 IMU board
 ---
 ## Component Guide
 
-| Component name/number | Component type | Component use/assosiated part |
-| --------------------- | -------------- | ----------------------------- |
-| BMI160                | IMU module     |                               |
-| 5mm diffused WS2812   | LED            |                               |
+| Component name/number | Component type | Component use/assosiated part    |
+| --------------------- | -------------- | -------------------------------- |
+| BMI160                | IMU module     |                                  |
+| 5mm diffused WS2812   | LED            | for use with basicLightLevel.ino |
+| 470 ohm ressistor     | resitor        |                                  |
 
 ---
 ## References 
