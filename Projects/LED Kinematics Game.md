@@ -13,7 +13,8 @@ inspired a bit by pong...?
 ---
 ## The Idea
 using an inclind slope sytem with a variable slope angel to produce an acceleration down the plane and then convert it into position values and feed it to an LED strip using an IMU to provide an angle for the slope
-inclined plane 
+
+inclined plane FBD:
 ![[Pasted image 20260819010933.png|396]]
 
 ---
