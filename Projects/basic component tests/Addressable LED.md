@@ -25,7 +25,11 @@ an exploration of addressable LEDs, using the [FastLED](https://fastled.io) libr
 
 CRGB leds[NUM_LEDS];   // definesd an array that represents your led stip
 
-
+void setup() {
+  //initialize LED library stuff
+ FastLED.addLeds<LED_TYPE, LED_PIN, COLOR_ORDER>(leds, NUM_LEDS).setCorrection(TypicalLEDStrip);
+  FastLED.setBrightness(BRIGHTNESS);
+}
 
 ```
 ### 2. changing/manipulating LEDs
