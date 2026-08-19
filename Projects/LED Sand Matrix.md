@@ -38,7 +38,7 @@ create a small addressable LED matrix that uses an accelerometer or IMU to detec
 | Components              | Quantity |
 | ----------------------- | -------- |
 | standard 4x1 pin header | 1        |
-|                         |          |
+| 470 ohm th              |          |
 
 
 
