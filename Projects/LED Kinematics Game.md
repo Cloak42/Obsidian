@@ -12,7 +12,7 @@ inspired a bit by pong...?
 
 ---
 ## The Idea
-using 
+using a
 ![[Pasted image 20260819010933.png|396]]
 
 ---
