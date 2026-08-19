@@ -12,7 +12,7 @@ GitHub Repository:https://github.com/Cloak42/Addressable-LED
 an exploration of addressable LEDs, using the [FastLED](https://fastled.io) library and an Arduino
 
 ---
-## Code Phase 2: Basic Functions
+## Code Phase 1: Basic Functions
 
 
 ---
