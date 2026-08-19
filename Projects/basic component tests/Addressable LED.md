@@ -124,7 +124,7 @@ void allColor(LED arr[NUM_LEDS],int R,int G, int B) {
 ### 1. allOff:
 
 ```
-void allOff(LED arr[NUM_LEDS]) {
+void allOff() {
   for (int i = 0; i < NUM_LEDS; i++) {
     leds[i] = CRGB(0,0,0);
     FastLED.show();
@@ -135,6 +135,9 @@ void allOff(LED arr[NUM_LEDS]) {
 
 ### 2. allColor:
 
+```
+
+```
 
 ---
 ## Code Phase 2: Animations
