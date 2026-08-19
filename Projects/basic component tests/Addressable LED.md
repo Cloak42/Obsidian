@@ -14,7 +14,9 @@ an exploration of addressable LEDs, using the [FastLED](https://fastled.io) libr
 ---
 ## Code Phase 1: Understanding the Library
 ### 1. basic necessary things
+```
 
+```
 
 
 ---
