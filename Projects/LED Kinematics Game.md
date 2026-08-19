@@ -34,8 +34,8 @@ $$
 {\Delta}x=V_i(t)+\frac{1}{2}(A)T^2\\\\
 V_i=0\\
 A=A_{down}\\\\
-{\Delta}x=\frac{1}{2}g(sin(\theta))T^2
-
+{\Delta}x=\frac{1}{2}g(sin(\theta))T^2\\\\
+{\Delta}x=x_f-x_i
 \end{gathered}
 $$
 
