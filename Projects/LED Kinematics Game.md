@@ -40,6 +40,7 @@ x_i=0\\\\
 x_f=\frac{1}{2}g(sin(\theta))T^2
 \end{gathered}
 $$
+now we have an equation for 
 
 ---
 ## Concept Drawings/Notes:
