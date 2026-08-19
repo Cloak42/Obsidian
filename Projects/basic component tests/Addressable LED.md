@@ -37,6 +37,8 @@ actually compiles and sends the signal to update the leds to match the leds[] ar
 
 ---
 ## Code Phase 2: Basic Functions
+
+******
 ### 1. update Function
 
 ```
