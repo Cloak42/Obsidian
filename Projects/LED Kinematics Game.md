@@ -31,7 +31,7 @@ using kinematic equations to find the position values
 $$
 \begin{gathered}
 \text{kinimatic equation:}\\\\
-{\Delta}x=V_it
+{\Delta}x=V_i(t)+\frac{1}{2}
 \end{gathered}
 $$
 
