@@ -34,7 +34,7 @@ $$
 {\Delta}x=V_i(t)+\frac{1}{2}(A)T^2\\\\
 V_i=0\\
 A=A_{down}\\\\
-{\Delta}x=\frac{1}{2}
+{\Delta}x=\frac{1}{2}()
 \end{gathered}
 $$
 
