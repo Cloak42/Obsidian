@@ -27,7 +27,7 @@ CRGB leds[NUM_LEDS];
 ```
 ### 2. changing/manipulating LEDs
 ```
-CRGB(arr[i].R,arr[i].G,arr[i].B);
+CRGB(0,0,0);
 ```
 
 ---
