@@ -33,6 +33,7 @@ sets the color in to be of the i led to be what ever RGB values you want
 ```
 FastLED.show();
 ```
+actually compiles and sends the signal to update the leds to match the leds[] array
 
 ---
 ## Code Phase 2: Basic Functions
