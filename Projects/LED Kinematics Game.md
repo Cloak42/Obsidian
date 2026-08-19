@@ -40,7 +40,7 @@ x_i=0\\\\
 x_f=\frac{1}{2}g(sin(\theta))T^2
 \end{gathered}
 $$
-now we have an equation for the x position of something following the acceleration of an inclined slope with of theta given a time and vaule and a tweaked 
+now we have an equation for the x position of something following the acceleration of an inclined slope with of theta given a time and vaule and the gravitational acceleration.
 
 ---
 ## Concept Drawings/Notes:
