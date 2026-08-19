@@ -30,8 +30,8 @@ $$
 using kinematic equations to find the position values
 $$
 \begin{gathered}
-\text{kinimatic equation}\\\\
-
+\text{kinimatic equation:}\\\\
+\delta
 \end{gathered}
 $$
 
