@@ -30,6 +30,7 @@ $$
 using kinematic equations to find the position values
 $$
 \begin{gathered}
+\text{kinimatic equation}\\\\
 
 \end{gathered}
 $$
