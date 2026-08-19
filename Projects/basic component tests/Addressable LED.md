@@ -27,7 +27,7 @@ CRGB leds[NUM_LEDS];   // definesd an array that represents your led stip
 ```
 ### 2. changing/manipulating LEDs
 ```
-leds
+leds[i]=CRGB(0,0,0);
 ```
 
 ---
