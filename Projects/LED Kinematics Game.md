@@ -12,7 +12,7 @@ inspired a bit by pong...?
 
 ---
 ## The Idea
-using an inclind slope sytem with a variable slope angel to produce a 
+using an inclind slope sytem with a variable slope angel to produce an aceleration down the pl
 ![[Pasted image 20260819010933.png|396]]
 
 ---
