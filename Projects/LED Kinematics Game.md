@@ -17,7 +17,7 @@ using an inclind slope sytem with a variable slope angel to produce an accelerat
 inclined plane FBD:
 ![[Pasted image 20260819010933.png|396]]
 
-
+math to find the aceleration down the plane
 
 ---
 ## Concept Drawings/Notes:
