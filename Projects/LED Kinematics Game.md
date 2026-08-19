@@ -40,7 +40,7 @@ x_i=0\\\\
 x_f=\frac{1}{2}g(sin(\theta))T^2
 \end{gathered}
 $$
-now we have an equation for the x postion of something following the aceleration of a 
+now we have an equation for the x postion of something following the aceleration of an inclined slope with a $$\theta$$ 
 
 ---
 ## Concept Drawings/Notes:
