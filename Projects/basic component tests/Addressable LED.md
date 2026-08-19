@@ -119,6 +119,9 @@ void allColor(LED arr[NUM_LEDS],int R,int G, int B) {
 - **LED struct must be defined**
 - **must define and pass an array of the LED struct into the function**
 -  **NUM_LEDS must be defined**
+---
+## Code Phase 2.1: Basic Functions reworked
+
 
 ---
 ## Code Phase 2: Animations
