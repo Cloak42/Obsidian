@@ -12,7 +12,7 @@ inspired a bit by pong...?
 
 ---
 ## The Idea
-using an inclind slope sytem with a variable slope angel to produce an aceleration down the pl
+using an inclind slope sytem with a variable slope angel to produce an acceleration down the plane and then convert it into position values and feed it to a 
 ![[Pasted image 20260819010933.png|396]]
 
 ---
