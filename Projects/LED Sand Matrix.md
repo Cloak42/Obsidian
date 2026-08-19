@@ -40,7 +40,7 @@ create a small addressable LED matrix that uses an accelerometer or IMU to detec
 | PCB                           | 1        |
 | standard 4x1 pin header       | 1        |
 | 470 ohm through hole resistor | 1        |
-| WS2812B SMD                   | 1        |
+| WS2812B SMD LEDs              | 1        |
 
 
 
