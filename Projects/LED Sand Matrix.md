@@ -42,9 +42,6 @@ create a small addressable LED matrix that uses an accelerometer or IMU to detec
 | 470 ohm through hole resistor | 1        |
 | WS2812B SMD LEDs              | 64       |
 
-
-
-
 ---
 ## File Legend
 
