@@ -11,8 +11,9 @@ Using physics kinematics equations to reproduce a variable slope system using an
 inspired a bit by pong...?
 
 ---
-## Brainstorm Ideas
-- [ ] 
+## The Idea
+using 
+
 ---
 ## Concept Drawings/Notes:
 
