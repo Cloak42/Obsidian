@@ -6,7 +6,7 @@ GitHub Repository:(NOT CREATED YET)
 
 ---
 ## Intro/Concept:
-Using physics kinematics equations to reproduce a variable sloped 
+Using physics kinematics equations to reproduce a variable sloped system
 
 ---
 ## Brainstorm Ideas
