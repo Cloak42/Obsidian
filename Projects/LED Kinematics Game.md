@@ -29,7 +29,9 @@ A_{down}=g(sin(\theta))
 $$
 using kinematic equations to find the position values
 $$
-{gathered}
+\begin{gathered}
+
+\end{gathered}
 $$
 
 ---
