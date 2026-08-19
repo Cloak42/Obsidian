@@ -37,7 +37,7 @@ A=A_{down}\\\\
 {\Delta}x=\frac{1}{2}g(sin(\theta))T^2\\\\
 {\Delta}x=x_f-x_i\\
 x_i=0\\\\
-x_f=
+x_f=\frac{1}{2}g(sin(\theta))T^2
 \end{gathered}
 $$
 
