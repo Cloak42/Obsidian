@@ -19,12 +19,12 @@ inclined plane FBD:
 
 math to find the acceleration down the plane:
 $$
-\begin{aligned}
+\begin{gathered}
 sin(\theta)=\frac{F_{down}}{F_{g}} \\\\
 F_{down}=(F_g)(sin(\theta)) \\\\
 F_{g}=Mg\\\\
 F_{down}=M(A_{down})
-\end{aligned}
+\end{gathered}
 $$
 
 ---
