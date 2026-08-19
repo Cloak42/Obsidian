@@ -50,12 +50,5 @@ create a small addressable LED matrix that uses an accelerometer or IMU to detec
 | Test LED Matrix.kicad_pcb/sch | The pcb and schematic file of the mini test Matrix |
 
 ---
-## Component Guide
-
-| Component name/number | Component type | Component use/assosiated part |
-| --------------------- | -------------- | ----------------------------- |
-| LED Matrix PCB        |                |                               |
-
----
 ## Results/Updates
 ---
