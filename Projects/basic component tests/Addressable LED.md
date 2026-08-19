@@ -24,6 +24,9 @@ an exploration of addressable LEDs, using the [FastLED](https://fastled.io) libr
 #define COLOR_ORDER RGB
 
 CRGB leds[NUM_LEDS];   // definesd an array that represents your led stip
+
+
+
 ```
 ### 2. changing/manipulating LEDs
 ```
