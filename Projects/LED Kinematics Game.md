@@ -28,7 +28,9 @@ A_{down}=g(sin(\theta))
 \end{gathered}
 $$
 using kinematic equations to find the position values
-
+$$
+fd
+$$
 
 ---
 ## Concept Drawings/Notes:
