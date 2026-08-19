@@ -18,7 +18,9 @@ inclined plane FBD:
 ![[Pasted image 20260819010933.png|396]]
 
 math to find the acceleration down the plane:
+$$
 
+$$
 
 ---
 ## Concept Drawings/Notes:
