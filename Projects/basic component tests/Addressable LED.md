@@ -22,6 +22,7 @@ an exploration of addressable LEDs, using the [FastLED](https://fastled.io) libr
 #define BRIGHTNESS 25
 #define LED_TYPE WS2812B
 #define COLOR_ORDER RGB
+
 CRGB leds[NUM_LEDS];
 ```
 
