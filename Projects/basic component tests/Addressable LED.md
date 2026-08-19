@@ -23,7 +23,7 @@ an exploration of addressable LEDs, using the [FastLED](https://fastled.io) libr
 #define LED_TYPE WS2812B
 #define COLOR_ORDER RGB
 
-CRGB leds[NUM_LEDS];
+		CRGB leds[NUM_LEDS];
 ```
 ### 2. changing/manipulating LEDs
 ```
