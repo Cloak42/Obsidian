@@ -21,7 +21,7 @@ math to find the acceleration down the plane:
 $$
 \begin{aligned}
 sin(\theta)=\frac{F_{down}}{F_{g}} \\\\
-ff
+F_{down}
 \end{aligned}
 $$
 
