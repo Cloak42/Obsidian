@@ -27,7 +27,7 @@ F_{down}=M(A_{down})\\\\
 A_{down}=g(sin(\theta))
 \end{gathered}
 $$
-
+using kinimatic equations to find
 
 ---
 ## Concept Drawings/Notes:
