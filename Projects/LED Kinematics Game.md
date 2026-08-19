@@ -12,9 +12,6 @@ Using physics kinematics equations to reproduce a variable slope system using an
 ## Brainstorm Ideas
 - [ ] 
 ---
-## Time Line:
-- [ ] 
----
 ## Concept Drawings/Notes:
 
 ---
