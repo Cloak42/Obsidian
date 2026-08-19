@@ -122,6 +122,7 @@ void allColor(LED arr[NUM_LEDS],int R,int G, int B) {
 ---
 ## Code Phase 2.1: Basic Functions reworked
 ### 1. allOff:
+
 ```
 void allOff(LED arr[NUM_LEDS]) {
   for (int i = 0; i < NUM_LEDS; i++) {
@@ -131,6 +132,8 @@ void allOff(LED arr[NUM_LEDS]) {
   return;
 }
 ```
+
+### 2. allColor:
 
 
 ---
