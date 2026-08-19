@@ -13,6 +13,7 @@ inspired a bit by pong...?
 ---
 ## The Idea
 using 
+![[Pasted image 20260819010933.png|396]]
 
 ---
 ## Concept Drawings/Notes:
