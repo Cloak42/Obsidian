@@ -33,7 +33,7 @@ create a small addressable LED matrix that uses an accelerometer or IMU to detec
 ---
 ## Addressable LED Matrix Design
 ![[Pasted image 20260819000413.png|443]]
-(Test LED Matrix.kicad_pro)
+(file name in git repo: Test LED Matrix.kicad_pro)
 
 | Components                    | Quantity |
 | ----------------------------- | -------- |
