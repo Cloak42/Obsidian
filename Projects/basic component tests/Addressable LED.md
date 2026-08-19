@@ -121,7 +121,7 @@ void allColor(LED arr[NUM_LEDS],int R,int G, int B) {
 -  **NUM_LEDS must be defined**
 ---
 ## Code Phase 2.1: Basic Functions reworked
-
+1. 
 
 ---
 ## Code Phase 2: Animations
