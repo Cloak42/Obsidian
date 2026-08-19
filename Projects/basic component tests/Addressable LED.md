@@ -31,7 +31,7 @@ leds[i]=CRGB(0,0,0);
 ```
 sets the color in to be of the i led to be what ever RGB values you want 
 ```
-
+FastLED.show();
 ```
 
 ---
