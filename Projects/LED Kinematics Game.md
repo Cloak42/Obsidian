@@ -6,7 +6,7 @@ GitHub Repository:(NOT CREATED YET)
 
 ---
 ## Intro/Concept:
-Using 
+Using physics kinimatics equations to reproduce a slopped 
 
 ---
 ## Brainstorm Ideas
