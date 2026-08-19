@@ -29,6 +29,10 @@ CRGB leds[NUM_LEDS];   // definesd an array that represents your led stip
 ```
 leds[i]=CRGB(0,0,0);
 ```
+sets the color in to be of the i led to be what ever RGB values you want 
+```
+
+```
 
 ---
 ## Code Phase 2: Basic Functions
