@@ -31,8 +31,8 @@ using kinematic equations to find the position values
 $$
 \begin{gathered}
 \text{kinimatic equation:}\\
-{\Delta}x=V_i(t)+\frac{1}{2}(A)T^2\\
-\\
+{\Delta}x=V_i(t)+\frac{1}{2}(A)T^2\\\\
+
 
 \end{gathered}
 $$
