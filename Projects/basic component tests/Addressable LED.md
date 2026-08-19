@@ -17,22 +17,11 @@ an exploration of addressable LEDs, using the [FastLED](https://fastled.io) libr
 ```
 #include <FastLED.h>
 
-  
-
 #define LED_PIN 2
-
 #define NUM_LEDS 5  // Set precisely to your 2 LEDs
-
 #define BRIGHTNESS 25
-
-  
-
 #define LED_TYPE WS2812B
-
 #define COLOR_ORDER RGB
-
-  
-
 CRGB leds[NUM_LEDS];
 ```
 
