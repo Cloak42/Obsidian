@@ -12,7 +12,7 @@ inspired a bit by pong...?
 
 ---
 ## The Idea
-using a
+using an inclind slope sytem with a variable 
 ![[Pasted image 20260819010933.png|396]]
 
 ---
