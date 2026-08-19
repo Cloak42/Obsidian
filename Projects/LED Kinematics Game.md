@@ -6,7 +6,7 @@ GitHub Repository:(NOT CREATED YET)
 
 ---
 ## Intro/Concept:
-Using physics kinimatics equations to reproduce a sloped 
+Using physics kinematics equations to reproduce a sloped 
 
 ---
 ## Brainstorm Ideas
