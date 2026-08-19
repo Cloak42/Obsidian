@@ -25,7 +25,7 @@ an exploration of addressable LEDs, using the [FastLED](https://fastled.io) libr
 
 CRGB leds[NUM_LEDS];
 ```
-
+### 2. changing/manipulating 
 
 ---
 ## Code Phase 2: Basic Functions
