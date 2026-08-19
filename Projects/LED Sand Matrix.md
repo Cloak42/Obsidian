@@ -31,7 +31,8 @@ create a small addressable LED matrix that uses an accelerometer or IMU to detec
 ![[LED sand matrix draw 1|500]]
 
 ---
-
+## Addressable LED Matrix Design
+![[Pasted image 20260819000413.png]]
 
 
 ---
