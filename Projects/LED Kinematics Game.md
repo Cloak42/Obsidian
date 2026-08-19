@@ -33,7 +33,7 @@ $$
 \text{kinimatic equation:}\\
 {\Delta}x=V_i(t)+\frac{1}{2}(A)T^2\\\\
 V_i=0\\
-A=A_{down}
+A=A_{down}\\\\
 
 \end{gathered}
 $$
