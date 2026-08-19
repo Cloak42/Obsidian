@@ -32,7 +32,7 @@ $$
 \begin{gathered}
 \text{kinimatic equation:}\\
 {\Delta}x=V_i(t)+\frac{1}{2}(A)T^2\\
-\\sdfs
+\\
 
 \end{gathered}
 $$
