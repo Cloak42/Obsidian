@@ -22,8 +22,8 @@ $$
 \begin{aligned}
 sin(\theta)=\frac{F_{down}}{F_{g}} \\\\
 F_{down}=(F_g)(sin(\theta)) \\\\
-F_{g}=Mg
-
+F_{g}=Mg\\\\
+F_{down}=
 \end{aligned}
 $$
 
