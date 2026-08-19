@@ -28,6 +28,7 @@ A_{down}=g(sin(\theta))
 \end{gathered}
 $$
 
+
 ---
 ## Concept Drawings/Notes:
 
