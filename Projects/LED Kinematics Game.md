@@ -19,7 +19,7 @@ inclined plane FBD:
 
 math to find the acceleration down the plane:
 $$
-sin(\theta)=\frac 
+sin(\theta)=\frac{}{} 
 $$
 
 ---
