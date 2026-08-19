@@ -54,7 +54,7 @@ create a small addressable LED matrix that uses an accelerometer or IMU to detec
 
 | Component name/number | Component type | Component use/assosiated part |
 | --------------------- | -------------- | ----------------------------- |
-|                       |                |                               |
+| LED Matrix PCB        |                |                               |
 
 ---
 ## Results/Updates
