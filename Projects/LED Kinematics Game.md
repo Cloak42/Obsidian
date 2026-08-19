@@ -24,7 +24,7 @@ sin(\theta)=\frac{F_{down}}{F_{g}} \\\\
 F_{down}=(F_g)(sin(\theta)) \\\\
 F_{g}=Mg\\\\
 F_{down}=M(A_{down})\\\\
-A_{down}=
+A_{down}=g(sin(\theta))
 \end{gathered}
 $$
 
