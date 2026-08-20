@@ -52,6 +52,7 @@ the "ball"(led that's on) should:
 - accelerate as the tilt increases
 - stop when it reaches the end of the strip
 - maybe add in some inertia?
+### The Physics
 
 ---
 ## Concept Drawings/Notes:
