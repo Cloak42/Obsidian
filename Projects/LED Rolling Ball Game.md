@@ -53,7 +53,9 @@ now we have an equation for the x position of something following the accelerati
 - stop when it reaches the end of the strip
 - maybe add in some inertia?
 ### 2. The Physics
+Equation to calculate acceleration:
 $$
+
 \begin{gathered}
 A=g*sin(\theta)
 \end{gathered}
