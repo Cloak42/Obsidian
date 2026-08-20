@@ -22,7 +22,7 @@ https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32C6-p-5884.html?gad_source=1&g
 | seeed studio xiao     | ESP32 micro controller | the brain           | [link](https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32C6-p-5884.html?gad_source=1&gad_campaignid=19063175976&gbraid=0AAAAACiAB44YwugYYfOAg2zOfPPAH2t09&gclid=CjwKCAjwqJXUBhBNEiwA8BgG7lMI0MBBZqlijtpG_Go_rC0-7jzc0ghwzWj5RB8jOVjyJAHu1rWo5BoCb_QQAvD_BwE) |
 | DFPlayer Mini         | MP3 player             | connect to speakers | [link](https://www.amazon.com/DFPlayer-A-Mini-MP3-Player/dp/B089D5NLW1?th=1)                                                                                                                                                                                  |
 | speakers              | speakers               | play the meow       | literally any speaker                                                                                                                                                                                                                                         |
-| 5mm RGB LEDs          |                        |                     |                                                                                                                                                                                                                                                               |
+| 5mm RGB LEDs          | LEDs                   | be the cats eyes    |                                                                                                                                                                                                                                                               |
 
 
 ---
