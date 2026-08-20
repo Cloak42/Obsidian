@@ -44,6 +44,9 @@ x_f=\frac{1}{2}g(sin(\theta))T^2
 $$
 now we have an equation for the x position of something following the acceleration of an inclined slope with of theta given a time and value and the gravitational acceleration
 
+
+## Rethinking the Idea
+
 ---
 ## Concept Drawings/Notes:
 
