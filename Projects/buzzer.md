@@ -17,9 +17,9 @@ make a copy of the spirit Halloween cat buzzer, but make it controlled by an ESP
 ---
 ## Meowing Alarm Clock
 
-| componet name/number | componete type |
-| -------------------- | -------------- |
-|                      |                |
+| component name/number | component type |
+| --------------------- | -------------- |
+|                       |                |
 
 
 ---
