@@ -7,7 +7,7 @@ GitHub Repository:https://github.com/Cloak42/buzzer
 
 ---
 ## Intro/Concept:
-
+make a copy of the 
 
 ---
 ## Brainstorm Ideas
