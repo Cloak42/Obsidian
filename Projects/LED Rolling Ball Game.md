@@ -54,7 +54,9 @@ now we have an equation for the x position of something following the accelerati
 - maybe add in some inertia?
 ### 2. The Physics
 $$
-
+\begin{gathered}
+A
+\end{gathered}
 $$
 
 
