@@ -55,7 +55,7 @@ now we have an equation for the x position of something following the accelerati
 ### 2. The Physics
 $$
 \begin{gathered}
-A
+A=g
 \end{gathered}
 $$
 
