@@ -7,7 +7,7 @@ GitHub Repository:https://github.com/Cloak42/buzzer
 
 ---
 ## Intro/Concept:
-make a copy of the 
+make a copy of the spirit halloween cat buzzer, but make it controlled by an ESP32 and turn it into an alarm system or alarm clock.
 
 ---
 ## Brainstorm Ideas
