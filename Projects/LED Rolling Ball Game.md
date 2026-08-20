@@ -50,6 +50,7 @@ the "ball"(led thats on) should:
 - start in the middle
 - stop moving when its level
 - accelorate as the tilt increases
+- stop when it reaches the end of the strip
 - 
 
 ---
