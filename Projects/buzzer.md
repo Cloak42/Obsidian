@@ -34,10 +34,7 @@ make a copy of the spirit Halloween cat buzzer, but make it controlled by an ESP
 ---
 ## Component Guide
 
-| Component name/number | Component type | Component use/assosiated part |
-| --------------------- | -------------- | ----------------------------- |
-|                       |                |                               |
-|                       |                |                               |
+
 
 ---
 ## Results/ updates
