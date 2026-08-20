@@ -46,13 +46,16 @@ now we have an equation for the x position of something following the accelerati
 
 
 ## Adding to the Idea
-### the "ball"(led that's on) should:
+### 1. the "ball"(led that's on) should:
 - start in the middle
 - stop moving when its level
 - accelerate as the tilt increases
 - stop when it reaches the end of the strip
 - maybe add in some inertia?
-### The Physics
+### 1. The Physics
+
+
+
 
 ---
 ## Concept Drawings/Notes:
