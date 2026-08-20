@@ -46,7 +46,7 @@ now we have an equation for the x position of something following the accelerati
 
 
 ## Adding to the Idea
-the "ball"(led that's on) should:
+### the "ball"(led that's on) should:
 - start in the middle
 - stop moving when its level
 - accelerate as the tilt increases
