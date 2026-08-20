@@ -52,8 +52,10 @@ now we have an equation for the x position of something following the accelerati
 - accelerate as the tilt increases
 - stop when it reaches the end of the strip
 - maybe add in some inertia?
-### 1. The Physics
+### 2. The Physics
+$$
 
+$$
 
 
 
