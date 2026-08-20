@@ -11,7 +11,13 @@ make a copy of the spirit Halloween cat buzzer, but make it controlled by an ESP
 
 ---
 ## Brainstorm Ideas
-- [ ] 
+- [ ] make a clock that meows
+
+
+---
+## Meowing Alarm Clock
+
+
 ---
 ## Time Line:
 - [ ] 
