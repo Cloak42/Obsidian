@@ -29,7 +29,7 @@ F_{down}=M(A_{down})\\\\
 A_{down}=g(sin(\theta))
 \end{gathered}
 $$
-using kinematic equations to find the position values
+~~using kinematic equations to find the position values~~
 $$
 \begin{gathered}
 \text{kinimatic equation:}\\
