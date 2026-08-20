@@ -13,7 +13,7 @@ Using physics kinematics equations to reproduce a ball on a tilting surface usin
 inspired a bit by pong...?
 
 ---
-## The initial idea
+## ~~The initial idea~~
 using an inclined slope system with a variable slope angel to produce an acceleration down the plane and then convert it into position values and feed it to an LED strip using an IMU to provide an angle for the slope
 
 inclined plane FBD:
