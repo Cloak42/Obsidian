@@ -17,9 +17,9 @@ make a copy of the spirit Halloween cat buzzer, but make it controlled by an ESP
 ---
 ## Meowing Alarm Clock
 
-| component name/number | component type | component use |
-| --------------------- | -------------- | ------------- |
-|                       |                |               |
+| component name/number | component type | component use | link to website |
+| --------------------- | -------------- | ------------- | --------------- |
+| ESP32                 |                |               |                 |
 
 
 ---
