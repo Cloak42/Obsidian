@@ -60,6 +60,11 @@ $$
 A=g*sin(\theta)
 \end{gathered}
 $$
+Equation to calculate velocity:
+$$
+v_f=v_i+{\Delta}t
+$$
+Equation to calculate position:
 
 
 
