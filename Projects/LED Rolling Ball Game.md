@@ -65,7 +65,9 @@ $$
 v_f=v_i+{\Delta}t
 $$
 Equation to calculate position:
-
+$$
+x_f=x_i+v{\Delta}t
+$$
 
 
 ---
