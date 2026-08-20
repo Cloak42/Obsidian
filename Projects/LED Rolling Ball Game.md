@@ -1,5 +1,7 @@
 ---
 tags:
+  - code-project
+  - electronics-project
 ---
 ---
 GitHub Repository:(NOT CREATED YET)
